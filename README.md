@@ -3,13 +3,14 @@
 
 - Go 1.20+
 - Git
+- GO extension on VS code
+- Vs Code
 - Thunder Client or Postman
----
 
 ##  How to Run
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Kasidit-Kongprapan/go-api-gin-lab>
 cd go-api-gin
 go mod tidy
 go run main.go
@@ -21,7 +22,6 @@ Server will start at:
 http://localhost:8080
 ```
 
----
 
 ##  API Endpoints
 
